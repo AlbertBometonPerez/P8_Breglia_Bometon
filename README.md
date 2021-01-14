@@ -1,6 +1,6 @@
 # Què és?
 
-És un projecte de desenvolupament d'una aplicació amb el llenguatge python. Hem desenvolupat un Diccionari amb multiples llengues dintre la seva aplicació.
+És un projecte de desenvolupament d'una aplicació amb el llenguatge python. Hem desenvolupat un Diccionari amb multiples llengues dintre l'aplicació.
 
 # Com funciona?
 
