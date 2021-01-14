@@ -12,4 +12,5 @@ Si estas a dintre d'una lletra hauras de fer clic enrere fins que arribis a la p
 # Qui són els desenvolupadors?
 
 Albert Bometon
+
 Aaron Breglia
